@@ -6,7 +6,7 @@
 * Check out the live version of the Netflix Clone:https://eloquent-fenglisu-e4192d.netlify.app
 
 ### Features
-** Browse through a curated collection of movies and TV shows, just like on Netflix.
+* Browse through a curated collection of movies and TV shows, just like on Netflix.
 * View detailed information about each title, including synopsis, release date, and ratings.
 * User-friendly interface, offering a seamless experience for discovering new content.
 
